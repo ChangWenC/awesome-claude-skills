@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Pick the clearest format for an explanation (plain text, diagram, interactive HTML, or video storyboard), following Karpathy's understanding ladder. Includes plain-chinese for Chinese output.
 
 
 ## 📘 Learning & Knowledge  
